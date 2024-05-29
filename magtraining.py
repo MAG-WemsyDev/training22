@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route('/')
 def training():
     #construct your message here
-    message - """"
+    message = """"
     <html>
         <head>
             <title>Training Page</title>
